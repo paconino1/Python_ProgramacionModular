@@ -1,0 +1,5 @@
+print("--- SIMULADOR DE PRÉSTAMOS BANCARIOS ---")
+capital = float(input("Introduce el capital solicitado (€): "))
+interes_anual = float(input("Introduce el porcentaje de interés anual (%): "))
+meses = int(input("Introduce los meses de amortización (ej. 300): "))
+print("-------------------------------------------")
